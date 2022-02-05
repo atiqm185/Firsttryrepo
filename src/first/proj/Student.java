@@ -6,7 +6,7 @@ package first.proj;
 
 /**
  *
- * @author izanr
+ * @author Muhammad Atiq
  */
 public class Student {
     private String studentId;
